@@ -1,6 +1,7 @@
 ## Hello!
-My name is Niklas Estola I'm 16 years old. <br />
-I'm studying in Gradia.
+I'm 17-years-old student. <br />
+Currently studying Information and Communication Technology at Gradia. <br />
+
 
 
 
