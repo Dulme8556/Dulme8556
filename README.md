@@ -1,6 +1,8 @@
 ## Hello!
 I'm 17-years-old student. <br />
 Currently studying Information and Communication Technology at Gradia. <br />
+I am a fast learner and quickly adapt to new tasks and technologies. In my free time, I enjoy playing games with friends and exploring new trends in technology. I am efficient in my work and always eager to develop new skills.
+
 
 
 
