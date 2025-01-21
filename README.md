@@ -8,9 +8,11 @@ I am a fast learner and quickly adapt to new tasks and technologies. In my free 
 
 
 <h3 align="left">Language:</h3>
-- C#
-- html
-- css
+<ul>
+  <li>C#</li>
+  <li>html</li>
+  <li>css</li>
+</ul>
 
 #### Work example:
 [Laivanupotus](https://github.com/Dulme8556/Laivanupotus)
