@@ -12,7 +12,7 @@ I am a fast learner and quickly adapt to new tasks and technologies. In my free 
   <li>C#</li>
   <li>html</li>
   <li>css</li>
-  <li>svelte</li>
+  <li>sveltekit</li>
   <li>sql</li>
 </ul>
 
