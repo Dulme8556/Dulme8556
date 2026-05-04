@@ -1,8 +1,9 @@
 ## Hello!
-I'm 18-years-old developer from Finland. <br />
-Graduated at Information and Communication Technology at Gradia. <br />
-I have exprience with multiple technologies including of many versions of SQL, C# and Svelte. <br />
-I am a fast learner and quickly adapt to new tasks and technologies. I am efficient in my work and always eager to develop new skills.
+I'm an 18-year-old developer from Finland.
+I graduated in Information and Communication Technology from Gradia.
+
+I have experience with multiple technologies, including SQL, C#, and Svelte.
+I quickly adapt to new tasks and technologies, and I am always eager to develop my skills.
 
 
 
